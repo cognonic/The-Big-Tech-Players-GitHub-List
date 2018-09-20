@@ -1,4 +1,4 @@
-# The-Microsoft-GitHub-List
+# The Big tech Players GitHub List
 Fast, easy, catagorized and opinionated access to Microsoft projects on GitHub
 
 # Microsoft Starting Points
